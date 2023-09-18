@@ -1,0 +1,3 @@
+/*
+Automatic Reciept Generator
+*/
